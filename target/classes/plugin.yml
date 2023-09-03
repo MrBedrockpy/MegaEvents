@@ -1,0 +1,8 @@
+name: Plugin
+version: '1.0'
+main: me.mrbedrockpy.megaevents.Plugin
+api-version: '1.16'
+
+commands:
+  startevent:
+    description: запускает ивенты

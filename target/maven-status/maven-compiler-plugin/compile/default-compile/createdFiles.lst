@@ -1,0 +1,11 @@
+me\mrbedrockpy\megaevents\Event.class
+me\mrbedrockpy\megaevents\hotpotato\HotPotato.class
+me\mrbedrockpy\util\EntityBuilder.class
+me\mrbedrockpy\util\ConfigManager.class
+me\mrbedrockpy\megaevents\hotpotato\HotPotato$1.class
+me\mrbedrockpy\util\ItemBuilder.class
+me\mrbedrockpy\megaevents\commands\StartEvent.class
+me\mrbedrockpy\megaevents\hotpotato\EventListener.class
+me\mrbedrockpy\util\ChatUtil.class
+me\mrbedrockpy\megaevents\Plugin.class
+me\mrbedrockpy\util\Hologram.class

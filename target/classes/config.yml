@@ -1,0 +1,17 @@
+log_messages:
+
+  not_rules: "| Недостаточно прав!"
+
+  not_found_event: "| Введите название существующего ивента!"
+
+  event_started: "| Ивент запустился!"
+
+  event_ended: "| Ивент заканчивается!"
+
+  # HotPotato
+
+  you_is_new_potato: "Вы новый Potato"
+
+  potato_quit: "Potato вышел с сервера! Сейчас выберется новый Potato!"
+
+duration_hot_potato: 600000 #milliseconds
